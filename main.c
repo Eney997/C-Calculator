@@ -30,5 +30,5 @@ int main()
 
     return 0;
 
-    //magariabzshy
+    //magariabzshy da vacomiteb githubze
 }
