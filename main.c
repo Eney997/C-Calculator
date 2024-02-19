@@ -3,8 +3,6 @@
 
 int main()
 {
-    // your first app
-
     double num1;
     double num2;
     char op;
@@ -32,5 +30,4 @@ int main()
 
     return 0;
 
-    //magariabzshy da vacomiteb githubze
 }
