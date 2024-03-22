@@ -24,7 +24,7 @@ int main()
     }else if(op=='/'){
         printf("%f",num1/num2);
     }else{
-        printf("Invalid number");
+        printf("Error 404");
     }
 
     return 0;
